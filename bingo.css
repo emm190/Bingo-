@@ -1,0 +1,19 @@
+
+	table, th, td {
+		border: 1px solid black;
+		text-align: center;
+	}
+	#bingoBoard {
+		width: 50%;
+	}
+	#scoreboard {
+		width: 25%;
+	}
+	td, th {
+		width: 15%;
+		padding-bottom: 15%;
+		position: relative;
+	}
+	#square12 {
+		background-color:purple;
+	}
